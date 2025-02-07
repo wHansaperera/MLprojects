@@ -1,0 +1,11 @@
+Metadata-Version: 2.2
+Name: MLproject
+Version: 0.0.1
+Author: Hansaka Perera
+Author-email: whansakaperera@gmail.com
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: seaborn
+Dynamic: author
+Dynamic: author-email
+Dynamic: requires-dist
